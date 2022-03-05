@@ -1,16 +1,27 @@
-### Hi there 👋
+# Hello, folks! <img src="https://raw.githubusercontent.com/mehditaibi/mehditaibi/main/wave.gif" width="30px">
 
-<!--
-**mehditaibi/mehditaibi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Mehdi and I'm a web developer. I'm originally from France, living in Vancouver and currently working at [OneComply](https://onecomply.com/). You can find me on [LinkedIn](https://www.linkedin.com/in/mehdi-taibi/) or [my website](https://mehditaibi.com).
 
-Here are some ideas to get you started:
+## 🔧 Technologies & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white)
+![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css3&logoColor=white)
+![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=javascript&logoColor=white)
+![](https://img.shields.io/badge/Code-Typescript-informational?style=flat&logo=typescript&logoColor=white)
+![](https://img.shields.io/badge/Code-Node-informational?style=flat&logo=nodedotjs&logoColor=white)
+![](https://img.shields.io/badge/Code-NestJS-informational?style=flat&logo=nestjs&logoColor=white)
+![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white)
+![](https://img.shields.io/badge/Code-NextJS-informational?style=flat&logo=nextdotjs&logoColor=white)
+![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white)
+![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white)
+![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white)
+
+## &#x1f4c8; GitHub Stats
+
+[![Mehdi's GitHub stats](https://github-readme-stats.vercel.app/api?username=mehditaibi&show_icons=true&line_height=27&count_private=true&hide=stars,contribs&title_color=ffffff&text_color=c9cacc&icon_color=2180C0&bg_color=0E1117)](https://github.com/mehditaibi/mehditaibi)
+
+
+<!-- links to your social media accounts -->
+
+[1]: https://github.com/mehditaibi
+[2]: https://www.linkedin.com/in/mehdi-taibi/
