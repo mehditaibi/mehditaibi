@@ -16,11 +16,6 @@ My name is Mehdi and I'm a web developer. I'm originally from France, living in 
 ![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white)
 
-## &#x1f4c8; GitHub Stats
-
-[![Mehdi's GitHub stats](https://github-readme-stats.vercel.app/api?username=mehditaibi&show_icons=true&line_height=27&count_private=true&hide=stars,contribs&title_color=ffffff&text_color=c9cacc&icon_color=2180C0&bg_color=0E1117)](https://github.com/mehditaibi/mehditaibi)
-
-
 <!-- links to your social media accounts -->
 
 [1]: https://github.com/mehditaibi
